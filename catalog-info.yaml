@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: raj-mahich
+  annotations:
+    github.com/project-slug: raj-mahich/raj-mahich
+spec:
+  type: other
+  lifecycle: unknown
