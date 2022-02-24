@@ -5,6 +5,6 @@ metadata:
   annotations:
     github.com/project-slug: raj-mahich/raj-mahich
 spec:
-  type: other
+  type: webservice
   lifecycle: unknown
   owner: Raj
